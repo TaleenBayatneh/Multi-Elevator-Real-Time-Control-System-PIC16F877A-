@@ -89,6 +89,3 @@ Defined command bytes:
 - Timing behavior depends on oscillator settings and simulation timing.
 - Logic can be extended for more floors/elevators by expanding request maps, addressing, and state handling.
 
-## Author
-
-If you are using this as a course/lab project, add your name, section, and submission details here.
